@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @BTS-armyjimin123
-- 👀 I’m interested in men
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on woman
-- 📫 How to reach me sigma boy phone 
-- 😄 Pronouns: ze zir
-- ⚡ Fun fact: im a skibidi sigma
-
+I am currently a year 11 student taking ATAR subjects who enjoys coding and other side projects in there free time!
